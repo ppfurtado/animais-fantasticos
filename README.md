@@ -22,8 +22,7 @@ Live server ou clicar no arquivo index.html da raiz do projeto
 * [VS CODE](https://code.visualstudio.com/)
 
 ## Projeto Online
-* [Animais Fantasticos](https://ppfurtado.github.io/animais-fantasticos/ {:target="_blank"})
-* <a href="https://ppfurtado.github.io/animais-fantasticos/" target="_blank">Animais Fantasticos</a>
+* [Animais Fantasticos](https://ppfurtado.github.io/animais-fantasticos/)
 
 ## ✒️ Autor
 Pedro Paulo Furtado 
