@@ -23,7 +23,7 @@ Live server ou clicar no arquivo index.html da raiz do projeto
 
 ## Projeto Online
 * [Animais Fantasticos](https://ppfurtado.github.io/animais-fantasticos/ {:target="_blank"})
-* <a href="http://example.com/" target="_blank">Animais Fantasticos</a>
+* <a href="https://ppfurtado.github.io/animais-fantasticos/" target="_blank">Animais Fantasticos</a>
 
 ## ✒️ Autor
 Pedro Paulo Furtado 
