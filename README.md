@@ -18,7 +18,7 @@ Live server ou clicar no arquivo index.html da raiz do projeto
 
 
 ## 📦 🛠️ Construído com
-* HTML, CSS ()
+* HTML, CSS
 * [VS CODE](https://code.visualstudio.com/)
 
 ## Projeto Online
